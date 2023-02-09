@@ -74,7 +74,7 @@ body {
 .arrow-img {
   color: white;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .coin-text {
