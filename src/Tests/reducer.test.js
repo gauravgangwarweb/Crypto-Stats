@@ -1,3 +1,4 @@
+/* eslint-disable */ 
 import coinsSlice, { selectCoin } from '../Redux/Reducer/coinReducer';
 
 const initialState = {
