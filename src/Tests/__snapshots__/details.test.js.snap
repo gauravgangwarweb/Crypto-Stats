@@ -10,7 +10,7 @@ Object {
         data-testid="Details-test"
       >
         <div
-          class="hero-section"
+          class="hero-section-2"
         >
           <img
             alt="coin-icon"
@@ -116,7 +116,7 @@ Object {
       data-testid="Details-test"
     >
       <div
-        class="hero-section"
+        class="hero-section-2"
       >
         <img
           alt="coin-icon"
