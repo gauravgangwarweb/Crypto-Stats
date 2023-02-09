@@ -10,7 +10,7 @@ const Details = () => {
   };
   return (
     <div data-testid="Details-test" className="details-card">
-      <div className="hero-section"><img className="coin-img" src={data.icon} alt="coin-icon" /></div>
+      <div className="hero-section-2"><img className="coin-img" src={data.icon} alt="coin-icon" /></div>
       <h2 className="details-head">COIN DETAILS</h2>
       <ul className="details-list">
         <li className="list-items">
