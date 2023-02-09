@@ -4,7 +4,7 @@
   <img src="./logo_gg.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Space-Hub</b></h3>
+  <h3><b>Crypto-Stats</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -58,11 +58,12 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://glistening-sable-cec9a6.netlify.app/)
+- [Live Demo Link](https://nimble-crumble-c7d0f5.netlify.app/)
+- [Video about this project](https://www.loom.com/share/b6b8caee3a6140c5a483808445c2253a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started with Space-Hub <a name="getting-started"></a>
+## 💻 Getting Started with Crypto-Stats <a name="getting-started"></a>
 
 ### Setup
 
@@ -133,6 +134,8 @@ If you like this project, Give a ⭐️.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Project from [Microverse](https://www.microverse.org/?grsf=i6yi2m) React & Redux module
+- Nelson Sakva for Original Design
+- Coinstats for their public API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
