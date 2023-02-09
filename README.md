@@ -1,31 +1,11 @@
 <a name="readme-top"></a>
+<div align="center">
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+  <img src="./logo_gg.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
+  <h3><b>Space-Hub</b></h3>
+</div>
 
 # 📗 Table of Contents
 
@@ -46,69 +26,52 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Crypto-Stats <a name="about-project"></a>
 
-# 📖 [Book Store] <a name="about-project"></a>
-
-**[Book Store]** is a Single page application. It is developed using React Library. It allows users to add new book, edit book, remove book and to manage their statuse on the book reading progress.
+> **Crypto-Stats** is a single page web application where you can you can see the details of various crypto currencies.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> This project use React.js & Redux.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/"></a>React</li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>   
   </ul>
 </details>
 
-
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **[Display book items]**
-- **[Add new Book item in book list]**
-- **[Delete Book item from book list]**
+- Built with React and Redux for a seamless and intuitive experience.
+- You can check daily price up and down of any crypto currencies.
+- It is single page appilication.
+- It is responsive.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [comming soon]()
+- [Live Demo Link](https://glistening-sable-cec9a6.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-```sh
- node js installed
- Git
- VSCODE editor
- Installed Web browser
-```
+## 💻 Getting Started with Space-Hub <a name="getting-started"></a>
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this [repository](https://github.com/gauravgangwarweb/Crypto-Stats.git) to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/gauravgangwarweb/Bookstore.git
+  git clone  https://github.com/gauravgangwarweb/Crypto-Stats.git
+  cd Coin-stats
 ```
 
 ### Install
@@ -116,13 +79,12 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Bookstore
   npm install
 ```
 
-### Usage
+### Start
 
-To run the project, execute the following command:
+To start the application, run the following command
 
 ```sh
   npm start
@@ -136,82 +98,46 @@ To run tests, run the following command:
   npm test
 ```
 
-### Deployment
-
-```sh
-  npm run build
-```
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
 👤 **Gaurav Gangwar**
 
 - GitHub: [@gauravgangwarweb](https://github.com/gauravgangwarweb)
 - Twitter: [@GauravGangwar51](https://twitter.com/GauravGangwar51)
-- LinkedIn: [@gauravgangwar](https://www.linkedin.com/in/gaurav-gangwar-5ab22b240/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gaurav-gangwar-5ab22b240/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add Book description]**
-- [ ] **[FUll website development]**
-- [ ] **[Test and Deploy]**
+- Add soe animations in design
+- Add some more features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gauravgangwarweb/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/gauravgangwarweb/Crypto-Stats/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give a⭐️ and share with your friends.
+If you like this project, Give a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank @Microverse.
+- Project from [Microverse](https://www.microverse.org/?grsf=i6yi2m) React & Redux module
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **How to install redux toolkit?**
-
-  - `npm i react-redux @reduxjs/toolkit`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md)) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
