@@ -28,9 +28,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Space-Hub <a name="about-project"></a>
+# 📖 Crypto-Stats <a name="about-project"></a>
 
-> **Coin-Stats** is a single page web application where you can you can see the details of various crypto currencies.
+> **Crypto-Stats** is a single page web application where you can you can see the details of various crypto currencies.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,12 +66,12 @@
 
 ### Setup
 
-Clone this [repository](git@github.com:gauravgangwarweb/Space-Hub.git) to your desired folder:
+Clone this [repository](https://github.com/gauravgangwarweb/Crypto-Stats.git) to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:gauravgangwarweb/Space-Hub.git 
-  cd Space-Hub
+  git clone  https://github.com/gauravgangwarweb/Crypto-Stats.git
+  cd Coin-stats
 ```
 
 ### Install
@@ -101,12 +101,6 @@ To run tests, run the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-👤 **Rohit Bhatt**
-
-- GitHub: [@rbhatt1999](https://github.com/rbhatt1999)
-- Twitter: [@Rohit_Bhatt_](https://twitter.com/Rohit_Bhatt_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohit-bhatt-747166193/)
-
 👤 **Gaurav Gangwar**
 
 - GitHub: [@gauravgangwarweb](https://github.com/gauravgangwarweb)
@@ -117,8 +111,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Dragon Capsule information and updates section
-- "About the Creators" section with information about the team behind Space Hub.
+- Add soe animations in design
+- Add some more features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +120,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gauravgangwarweb/Space-Hub/issues).
+Feel free to check the [issues page](https://github.com/gauravgangwarweb/Crypto-Stats/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
