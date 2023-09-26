@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 
 body {
-  background-color: #ec4c8b;
+  background-color: #35155D;
   color: white;
   margin: 0;
   font-family: 'Signika Negative', sans-serif;
+  padding: 0 10px 0 10px;
 }
 
 .navbar {
@@ -21,12 +22,14 @@ body {
 }
 
 .hero-section {
-  background-color: #fd5294;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   padding: 10px 0;
+  background: #512B81;
+  border: 2px solid red;
+  border-radius: 10px;
 }
 
 .main-logo {
@@ -39,7 +42,7 @@ body {
 
 .search-input {
   width: 100%;
-  background-color: #ec4c8b;
+  background-color: #35155D;
   color: white;
   padding: 12px 0 12px 5px;
   font-size: 20px;
@@ -58,6 +61,7 @@ body {
   display: grid;
   grid-template-columns: 50% 50%;
   justify-content: space-between;
+  gap: 5px;
 }
 
 .coin-div {
@@ -100,19 +104,14 @@ body {
   padding: 10px 5px 10px 0;
   text-decoration: none;
   color: white;
-}
-
-.coin-card:nth-child(4n+2) {
-  background-color: #fd5294;
-}
-
-.coin-card:nth-child(4n+3) {
-  background-color: #fd5294;
+  background: #512B81;
+  border: 2px solid red;
+  border-radius: 10px;
 }
 
 .details-head {
   width: 100%;
-  background-color: #ec4c8b;
+  background-color: #35155D;
   color: white;
   font-size: 15px;
   margin: 0;
@@ -134,15 +133,15 @@ body {
   padding: 20px 5px;
 }
 
-.list-items-child {
+.list-items {
   display: flex;
   align-items: center;
   gap: 15px;
   font-size: 20px;
-}
-
-.list-items:nth-child(odd) {
-  background-color: #fd5294;
+  background-color: #512B81;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin-top: 10px;
 }
 
 .positive-text {
@@ -164,10 +163,16 @@ body {
 }
 
 .hero-section-2 {
-  background-color: #fd5294;
+  background-color: #512B81;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   padding: 20px 0;
+  border: 2px solid red;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
